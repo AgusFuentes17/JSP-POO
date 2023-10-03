@@ -1,0 +1,20 @@
+body{
+    background-color: #FAC995;
+    text-align: center;
+}
+.formulario{
+    background-color: #FFA490;
+    margin: auto;
+    width: 30%;
+    
+}
+.datos{
+    display: block;
+}
+.a{
+    display:inline-block
+}
+.pago{
+    display: block;
+}
+
